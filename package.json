@@ -1,0 +1,13 @@
+{
+  "name": "unbound-minds-app",
+  "version": "1.0.0",
+  "description": "Facilitated Peer Advocacy Hub for Unbound Minds",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
